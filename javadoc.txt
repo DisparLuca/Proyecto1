@@ -1,0 +1,24 @@
+para usar javadoc:
+escribir 
+/**
+*/
+
+por ejemplo:
+/**
+
+ * Esta clase define objetos que contienen tantos enteros aleatorios entre 0 y 1000 como se le definen al crear un objeto
+
+ * @author: Mario R. Rancel
+
+ * @version: 22/09/2016/A
+
+ * @see <a href = "http://www.aprenderaprogramar.com" /> aprenderaprogramar.com – Didáctica en programación </a>
+ 
+ * @param
+
+ * @return
+
+ */
+ 
+para más información.
+https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=646:documentar-proyectos-java-con-javadoc-comentarios-simbolos-tags-deprecated-param-etc-cu00680b&catid=68&Itemid=188
