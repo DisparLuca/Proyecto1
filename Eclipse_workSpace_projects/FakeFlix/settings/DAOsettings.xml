@@ -13,7 +13,7 @@
     <entry key="mysql_db_properties_ssl">?useSSL=false</entry>
     <entry key="mysql_db_properties_servertimezone">&amp;serverTimezone=GMT</entry>
     
-    <entry key="mysql_user">root</entry>
+    <entry key="mysql_user">remoto3</entry>
     <entry key="mysql_pass">root</entry>
     
 </properties>
